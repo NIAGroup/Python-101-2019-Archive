@@ -35,14 +35,17 @@ Topics:*
 **Week 4: Project Development Phase 1**  
 *Project: Parser X  
 Description:*  
+
 User should create a script which searches through the current directory searching for specific excel files. The data from those files will be summarized and compiled into one masterfile and cells will be highlighted based on processor generation  
 
 **Week 5: Project Development Phase 2**  
 *Project: Parser X  
 Description:*  
+
 Users should create a script which searches through the current directory searching for specific excel files. The data from those files will be summarized and compiled into one masterfile and cells will be highlighted based on processor generation  
 
 **Week 6: Project Development Phase 3**  
 *Project: Parser X  
 Description:*  
+
 Users should create a script which searches through the current directory searching for specific excel files. The data from those files will be summarized and compiled into one masterfile and cells will be highlighted based on processor generation
