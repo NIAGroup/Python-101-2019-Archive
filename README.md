@@ -15,13 +15,13 @@ Topics:*
 - Introduction/ GitHub review
 - Variables
 - Strings
-- Data Structures  
+- Loops  
 
 **Week 2: Users should be able to create basic algorithms**  
 *Presentation(~10mins)  
 Topics:*
 - Condition expressions
-- Loops 
+- Data Structures 
 - Functions
 
 **Week 3: Users should be able to use algorithms to analyze data**  
