@@ -32,4 +32,4 @@ Note:
             > git push origin <branch name>
               - You have now added a change to your branch.
             > Create a pull request.
-            Not: Do not merge!!!
+            Note: Do not merge!!!
