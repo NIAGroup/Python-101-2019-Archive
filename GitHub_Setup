@@ -1,2 +1,35 @@
-Sign-Up for a GitHub Account
-  https://github.com
+## Environment Setup
+
+Note: 
+
+1. Sign-Up for a GitHub Account  
+    >https://github.com
+    
+2. Go to: https://github.com/NIAGroup/Python-101-2019
+    - Watch Repository
+    
+3. Download GitBash
+    >https://git-scm.com/download/win 
+    >Recommended: 32bit version
+    >Choose all default settings
+    
+4.Clone Repository:
+   > Open Git-Bash.
+   > Give " git config --global http.proxy http://10.7.211.16:911"
+      > Write"git clone https://github.com/NIAGroup/Python-101-2019.git"
+        > ls - lists all files in your directory
+        > cd Python-101-2019
+        > cd Week1
+        
+        > Create a Branch:
+            > git checkout -b <branch name>
+            > mkdir <your name>   (mkdir-make directory --see man pages)
+            > cd <your name>
+            > touch foo.txt
+            > ls (you should see foo.txt, your created file)
+            > git add . (stages your file)
+            > git commit -m "Comment describing what change you performed"
+            > git push origin <branch name>
+              - You have now added a change to your branch.
+            > Create a pull request.
+            Not: Do not merge!!!
