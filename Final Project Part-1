@@ -1,0 +1,16 @@
+Final Project Part-1
+
+Create these Variables names:
+> Search_wb
+> Search_ws
+> Search_row
+> Wb
+> Ws
+> Row
+Create this variable and assign it to this string:
+   >ws.title = "Master List"
+>temp == "9th Generation"
+>temp == "8th Generation"
+>temp == "7th Generation"
+>temp == "6th Generation"
+>temp == "5th Generation"
