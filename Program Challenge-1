@@ -1,4 +1,8 @@
-Create a program which parses through a list of file names and categorizes them.
-File names: DatabaseList.doc, DatabaseList.xl, DatabaseList.java, DatabaseList.py
+Create a program which parses through a database of files, categorize them and print each by file type.
 
-Use arrays, conditional-loops, and if-elif statements to accomplish this.
+File names: DatabaseList.doc, DatabaseList.xl, DatabaseList.java, DatabaseList.py
+- file are attached in the wiki page.
+
+Use a conditional loop and if-else statements to accomplish this.
+
+-Happy Coding!!
