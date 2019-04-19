@@ -1,0 +1,4 @@
+Create a program which parses through a list of file names and categorizes them.
+File names: DatabaseList.doc, DatabaseList.xl, DatabaseList.java, DatabaseList.py
+
+Use arrays, conditional-loops, and if-elif statements to accomplish this.
