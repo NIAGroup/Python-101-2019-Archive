@@ -1,0 +1,28 @@
+
+from os import listdir
+
+from os.path import isfile, join
+
+directory = 'C:\Users\itanwani\Documents\STEM CLUB\Database'
+
+files = listdir(directory)
+
+print(files)
+
+for i in files:
+
+    if ".xl" in i :
+
+        print("This directory contains an excel file:",str(i))
+
+    if ".py" in i :
+
+        print("This file directory contains an excel file:",str(i))
+
+    if ".java" in i :
+
+        print("This file directory contains a java file:",str(i))
+
+    if ".doc" in i :
+
+        print("This directory contains a word document:",str(i))
