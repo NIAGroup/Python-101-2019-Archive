@@ -1,7 +1,7 @@
 Create a program which parses through a database of files, categorize them and prints each by file type.
 
 File names: DatabaseList.doc, DatabaseList.xl, DatabaseList.java, DatabaseList.py
-- file are attached on the welcome page.
+- file are attached on the welcome page.(https://github.com/NIAGroup/Python-101-2019/blob/master/Database.zip)
 
 Use conditional loops and if-else statements to accomplish this.
 
