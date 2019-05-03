@@ -32,27 +32,34 @@ Topics:*
 - File Input/ Output
 - Libraries  
 
-**Week 5: Project Development Phase 1**  
-*Project: Parser X  
-Description:*  
+**Parser X Project Overview:
+
 
 User should create a script which searches through the current directory searching for specific excel files. The data from those files will be summarized and compiled into one masterfile and cells will be highlighted based on processor generation  
+
+**Week 5: Project Development Phase 1**  
+*Project: Parser X  
+Description:* 
+
+User should create a script which searches through a directory of file, for specific excel files and and maintaining the location of those files.
+Hint: You need special Libraries to acocmplish this.
 
 **Week 6: Project Development Phase 2**  
 *Project: Parser X  
 Description:*  
 
-Users should create a script which searches through the current directory searching for specific excel files. The data from those files will be summarized and compiled into one masterfile and cells will be highlighted based on processor generation  
+Users should create a script which searches through the current directory searching for specific excel files. This script should read through these excel files for specific information and store the data in another excel file.
 
 **Week 7: Project Development Phase 3**  
 *Project: Parser X  
 Description:*  
 
-Users should create a script which searches through the current directory searching for specific excel files. The data from those files will be summarized and compiled into one masterfile and cells will be highlighted based on processor generation
+Users should create a script which searches through the current directory searching for specific excel files. The data from those files will be summarized and compiled into one masterfile and cells will be highlighted based on processor generation.
 
 **Week 8: Final Project Deliverable**
 Description:*
 
-Use this week to finalize the remaining items for your Parser x project. Make sure sure to push it to your branch, there is a wiki page which shows you how to do this and a video which walks you through how to push to a branch.
+Use this week to finalize the remaining items for your Parser x project. 
+Make sure to push it to your branch, there is a wiki page which shows you how to do this and a video which walks you through how to push to a branch.
 
 **Happy Coding!
