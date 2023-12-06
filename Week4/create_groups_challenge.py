@@ -1,6 +1,6 @@
 #Challenge: Randomly break up a list of names into groups of three.  The total number of names must not be a multiple of three
 
-import random
+import secrets
 
 #create initial list of all names - must not be a multiple of three
 names = ["Jose", "Injoh", "Felicia", "Adonay", "Stephen", "Chuey", "Biance", "Scott", "Johnny", "Tope", "Ken", "Sushma", "Frank", "Rowena"]
@@ -40,7 +40,7 @@ if len(names)/3 != 0:
 # remove those first three names from the original list so that they cannot be selected again
 groups = []
 for i in range(no_of_groups):
-    random.shuffle(names)
+    secrets.SystemRandom().shuffle(names)
     groups.append([names[0:3]])
     print(groups)
     del names[0:3]
