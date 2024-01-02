@@ -9,6 +9,6 @@ f.close()                   # It's important to close the file to free up any sy
 
 f1 = open("input1.txt", "r")
 
-print(f1.readline())
+print(f1.readline(5_000_000))
 
 f1.close()
