@@ -9,9 +9,8 @@ elif x == 1:
 else:
     print('non of the above is true')
 
-name = "John"
 
-if name == "John":
+if (name := "John") == "John":
     print(True)
 else:
     print(False)
